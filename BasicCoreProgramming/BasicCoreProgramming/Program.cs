@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace BasicCoreProgramming
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Basic Core Programming");
         }
     }
 }
