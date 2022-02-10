@@ -13,6 +13,7 @@ namespace BasicCoreProgramming
             Console.WriteLine("Basic Core Programming");
             FibonacciSeries fibo=new FibonacciSeries();
             fibo.FibonacciCreate();
+            fibo.DetermineDayOfWeek();
         }
     }
 }
