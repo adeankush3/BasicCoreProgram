@@ -11,6 +11,8 @@ namespace BasicCoreProgramming
         static void Main(string[] args)
         {
             Console.WriteLine("Basic Core Programming");
+            FibonacciSeries fibo=new FibonacciSeries();
+            fibo.FibonacciCreate();
         }
     }
 }
